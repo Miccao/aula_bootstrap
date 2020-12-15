@@ -1,0 +1,26 @@
+.logo {
+    margin-left: 80px;
+}
+
+.navbar {
+    background-color: rgb(95, 83, 255);
+}
+
+.quem-somos {
+    background-color: rgb(195, 226, 255);
+}
+
+.parceiros {
+    background-color: rgb(189, 177, 252);
+}
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.margin-titulo {
+    margin-bottom: 30px;
+}
+.bg-footer {
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
