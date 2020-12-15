@@ -1,2 +1,2 @@
 # aula_bootstrap
-Repositório do curso de desenvolvimento de páginas utilizando HTML5, CSS3 e Bootstrap
+Repositório do curso de desenvolvimento de páginas utilizando HTML5, CSS3 e Bootstrap (Digital Innovation One)
